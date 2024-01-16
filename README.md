@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Anis ✨</h1>
-# 💫 About Me:
  ✏️I'm currently a first-year undergraduate student in data engineering course.
 
 

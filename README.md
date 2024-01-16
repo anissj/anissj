@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Anis Safiyya💫</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+# 💫 About Me:
+ ✏️I'm currently a first-year undergraduate student in data engineering course.
 
-- ✏️ I’m currently learning **data engineering**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anissj&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=anissj&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anissj&show_icons=true&title_color=5b2067&locale=en" alt="anissj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anissj&theme=dark" alt="anissj" /></p>
 

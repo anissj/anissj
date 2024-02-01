@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/anis-safiyya-3242082b0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="https://anissj.github.io/">
     <img src="https://img.shields.io/badge/-ePortfolio-purple?style=for-the-badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCU5yJNEBkn9qkoXtfYv-5XQ">
@@ -19,8 +19,8 @@
 
 ## 🌷 About Me:
 - I'm currently a first-year undergraduate student in data engineering course.
-- Check out my [portfolio]()
-- Explore my [resume]()
+- Check out my [portfolio](https://anissj.github.io/)
+- Explore my [resume](https://github.com/anissj/anissj/files/14120750/Black.White.Minimalistic.Professional.Resume.1.pdf)
 - Reach me at [anissafiyya@graduate.utm.my](mailto:anissafiyya@graduate.utm.my)
 - i'm based in Shah Alam, Selangor
 

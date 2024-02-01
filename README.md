@@ -22,7 +22,7 @@
 - Check out my [portfolio](https://anissj.github.io/)
 - Explore my [resume](https://github.com/anissj/anissj/files/14120750/Black.White.Minimalistic.Professional.Resume.1.pdf)
 - Reach me at [anissafiyya@graduate.utm.my](mailto:anissafiyya@graduate.utm.my)
-- i'm based in Shah Alam, Selangor
+- I'm based in Shah Alam, Selangor
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -49,12 +49,12 @@
   district level 2017 [ 1st place ] | state level 2017 [ 3rd place ] | district level 2019 [ 2nd place ]
 
 ## Position:
-- PAL Leader at KMS in subject Mathematics and Chemistry (2022-2023)
+- PAL Leader at KMS in the subject Mathematics and Chemistry (2022-2023)
 - Prefect (2017-2021)
-  ~ Head of the development bureau (2021)
+  ~ Head of the Development Bureau (2021)
   ~ Assistant head of the administrative block bureau (2019)
 - Vice President Arabic Club  (2021)
-- Committee member of Dodgeball club (2021)
+- Committee member of Dodgeball Club (2021)
 - School Librarian (2012-2016)
   
 

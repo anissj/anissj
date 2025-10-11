@@ -18,7 +18,7 @@
 <h4 align="center">───── ⋆⋅☆⋅⋆ ───── </h4>
 
 ## 🌷 About Me:
-- I'm currently a first-year undergraduate student in data engineering course.
+- I'm currently a third-year undergraduate student in data engineering course.
 - Check out my [portfolio](https://anissj.github.io/)
 - Explore my [resume](https://github.com/anissj/anissj/files/14120750/Black.White.Minimalistic.Professional.Resume.1.pdf)
 - Reach me at [anissafiyya@graduate.utm.my](mailto:anissafiyya@graduate.utm.my)

@@ -33,30 +33,17 @@
 ## 🎓 Education:
 - University (2023-present) : UTM | Bachelor of Computer Science (Data Engineering) with Honours
 - Pre-university (2022-2023) : Selangor Matriculation College | Life Science
-- Secondary School (2017-2021) : SMK Puncak Alam | Pure Science Stream
 
 ## 📜 Certificate:
 - Malaysian University English Test | Band 4.5
 - CGPA in Matriculation | 4.00
 - SPM | 8A
-- PT3 | 8A
-- UPSR | 4A
 
 ## 🏆 Awards:
 - STEM Creator MASCAR 2022 [Bronze]
 - Hiwar 2019 [ 3rd place ]
 - Choral Speaking
   district level 2017 [ 1st place ] | state level 2017 [ 3rd place ] | district level 2019 [ 2nd place ]
-
-## Position:
-- PAL Leader at KMS in the subject Mathematics and Chemistry (2022-2023)
-- Prefect (2017-2021)
-  ~ Head of the Development Bureau (2021)
-  ~ Assistant head of the administrative block bureau (2019)
-- Vice President Arabic Club  (2021)
-- Committee member of Dodgeball Club (2021)
-- School Librarian (2012-2016)
-  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anissj&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
